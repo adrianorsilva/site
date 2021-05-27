@@ -1,0 +1,32 @@
+
+/* Fundo Site */
+.fundo-site{
+    background-color:#F3F2EF;
+    color: black;
+}
+
+/* Font do site (conteudo em geral) */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Topo*/
+
+.fundo-topo{
+    background-color: black;
+    color: white;
+}
+
+
+/* Footer (rodapé) */
+
+.fundo-footer{
+    background-color:#F3F2EF;
+    color: black;
+}
+
+/* Cards */
+
+.fundo-card{
+    background-color: #F3F2EF;
+}
